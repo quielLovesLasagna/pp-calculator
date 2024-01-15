@@ -1,0 +1,17 @@
+{
+	"name": "calculator-oop",
+	"version": "1.0.0",
+	"description": "Simple JavaScript Calculator",
+	"main": "",
+	"scripts": {
+		"start": "parcel src/index.html",
+		"build": "parcel build src/index.html"
+	},
+	"keywords": [],
+	"author": "Exequiel",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.5",
+		"sass": "^1.69.7"
+	}
+}
